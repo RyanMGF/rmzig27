@@ -1,6 +1,6 @@
 # Olá, me chamo Ryan! 
 ## Bem vindo ao meu perfil GitHub 👋
-# Oi! Sou uma pessoa motivada, com paixão por aprender e crescer nas áreas de programação e tecnologia. Atualmente estou começando em Python, Cyber ​​Security, SQL, Git e JavaScript e estou ansioso para aumentar continuamente minhas habilidades técnicas e conhecimento nessas áreas.
+# Sou um cara motivado, com paixão por aprender e crescer nas áreas de programação e tecnologia. Atualmente estou começando em Python, Cyber ​​Segurança, SQL, Git e JavaScript e estou ansioso para aumentar continuamente minhas habilidades técnicas e conhecimento nessas áreas.
 
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
